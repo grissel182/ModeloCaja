@@ -1,3 +1,7 @@
+*{
+	font-family: Arial;
+}
+
 p{
 	text-align: center;
 	border: 2px dashed green;
@@ -16,4 +20,12 @@ div{
 .NoMarco{
 	text-align: left;
 	border: 0px;
+}
+li{
+	margin-left: 45%;
+}
+span p{
+	border: 8px dotted blue;
+	padding: 20px 30px 40px 50px;
+	margin: 10px 20px 30px 40px;
 }
